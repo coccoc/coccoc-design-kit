@@ -1,12 +1,23 @@
 # Coc Coc Design System
 Coc Coc Design System visual assets (components, iconography, color palettes, grids, templates).
 
-## Principles
-Unified
-Each piece is part of an eco system and should contribute positively to the system at scale. There should be no isolated features or outliers.
+## 📝 Change Log
+Contains release notes on current and previous versions of the Coc Coc Design Kit.
+8.x.x
+1.0.4 and older
 
-Iconic
-About both design and functionality. Our work should speak boldly and clearly to this focus.
+## 📚 Getting Started
+**Designers**
+* The Coc Coc Design Kit now uses the system font:
+  * Windows: Seogoe UI
+  * MacOS: San Franciso
+  * Android: Roboto
+  * iOS: San Francisco
+* The Design Kit is available on Figm, inside the Coc Coc Design System Project
+* Core visual styles, components, and templates are broken out into respective pages
+* Use the components and core visual styles to build out your design
+* Updates to the Design Kit will be posted in our change log, so check back frequently for changes!
 
-Conversational
-Allows us to communicate with users in easily understood ways.
+## 💻 Workflow
+Team Library on Figma
+It is built on the foundation we established with Components to make design systems easier to create, maintain and use across an entire team.
