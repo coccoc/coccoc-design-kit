@@ -13,6 +13,9 @@ Contains release notes on current and previous versions of the Coc Coc Design Ki
   * MacOS: San Franciso
   * Android: Roboto
   * iOS: San Francisco
+* Based grid
+  * Based grid: 4px
+  * Vertical padding: 8px
 * The Design Kit is available on Figm, inside the Coc Coc Design System Project
 * Core visual styles, components, and templates are broken out into respective pages
 * Use the components and core visual styles to build out your design
