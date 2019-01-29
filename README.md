@@ -3,8 +3,8 @@ Coc Coc Design System visual assets (components, iconography, color palettes, gr
 
 ## 📝 Change Log
 Contains release notes on current and previous versions of the Coc Coc Design Kit.
-8.x.x
-1.0.4 and older
+* 
+* 
 
 ## 📚 Getting Started
 **Designers**
